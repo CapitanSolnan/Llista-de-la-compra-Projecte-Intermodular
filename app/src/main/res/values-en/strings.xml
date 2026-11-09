@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping list PI</string>
+    <string name="titulo_lista">Shopping list</string>
+    <string name="delete">Remove purchased items</string>
+    <string name="exit">Exit</string>
+    <string name="cantidad">Amount</string>
+    <string name="delete_unico">Remove</string>
+    <string name="add">Add item</string>
+    <string name="iniciar_sesion">Sign in with Google</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="cancelar">Cancel</string>
+    <string name="edit">Edit item</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Llista de la compra PI</string>
+    <string name="titulo_lista">Llista de la compra</string>
+    <string name="delete">Borrar comprats</string>
+    <string name="exit">Surtir</string>
+    <string name="cantidad">Quantitat</string>
+    <string name="delete_unico">Borrar</string>
+    <string name="add">Afegir producte</string>
+    <string name="iniciar_sesion">Inicia la sessió amb Google</string>
+    <string name="save">Guardar</string>
+    <string name="name">Nom</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="edit">Editar producte</string>
+</resources>

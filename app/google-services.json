@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528951377557",
+    "firebase_url": "https://llista-de-la-compra-pi-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "llista-de-la-compra-pi",
+    "storage_bucket": "llista-de-la-compra-pi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528951377557:android:76daa14e5b1cd90f26e59c",
+        "android_client_info": {
+          "package_name": "com.capitansolnan.llistadelacomprapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528951377557-cbhesq471i1f1m9inclohq6b27d8182s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capitansolnan.llistadelacomprapi",
+            "certificate_hash": "91278fd27256a0c3bcbb3d41f74636dd10bbb335"
+          }
+        },
+        {
+          "client_id": "528951377557-h6e4im0movfko9rvpm9147imq3of843q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5CU5p9c0HI16MaftuRuPv8SrCsvU_nPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528951377557-h6e4im0movfko9rvpm9147imq3of843q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
